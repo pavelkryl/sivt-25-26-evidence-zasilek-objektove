@@ -1,4 +1,4 @@
-# sivt-25-26-evidence-zasilek-objektove
+# Evidence zásilek objektově
 
 požadované API (naprogramuj všechno):
 - registruj zasilku()
